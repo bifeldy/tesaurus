@@ -23,3 +23,5 @@ unik --> {'tag': 'a', 'sinonim': ['distingtif', 'eksklusif', 'idiosinkratis', 'i
 - v = verba
 
 File **tesaurus.py** adalah program Python untuk memperoleh sinonim dan antonim dari suatu kata.
+
+Updated on March 8, 2021.
